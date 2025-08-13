@@ -16,17 +16,27 @@
 
 ---
 
-## 🛠 Skills & Tools
-**Programming & Analysis**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-Libraries: Pandas, NumPy, Matplotlib, Seaborn  
+## 🛠 Skills & Tools  
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
+### 💻 Programming & Data Analysis  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4ECDC4?style=for-the-badge&logo=python&logoColor=white)  
 
-**Visualization & BI Tools**  
-![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)  
-![MS Excel](https://img.shields.io/badge/-MS%20Excel-333333?style=flat&logo=microsoftexcel)  
+### 🗄 Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 📊 Visualization & BI Tools  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+### 🌐 Languages  
+![Arabic](https://img.shields.io/badge/Arabic-Native-blue?style=for-the-badge)  
+![German](https://img.shields.io/badge/German-B2%2FC1-black?style=for-the-badge&logo=googletagmanager&logoColor=white)  
+![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white)  
+ 
 
 ---
 
