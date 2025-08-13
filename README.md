@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Muneer Al-Shetri
+# Hi there 👋, I'm Muneer Al-Shetri  
+![Profile Views](https://komarev.com/ghpvc/?username=malshetri&label=Profile%20Views&color=0e75b6&style=flat)  
 
 💡 **Aspiring Data Analyst** passionate about uncovering insights from data through Python, visualization tools, and statistical analysis.  
 🌍 Based in Berlin, Germany  
@@ -34,9 +35,8 @@
 
 ### 🌐 Languages  
 ![Arabic](https://img.shields.io/badge/Arabic-Native-blue?style=for-the-badge)  
-![German](https://img.shields.io/badge/German-B2%2FC1-black?style=for-the-badge&logo=googletagmanager&logoColor=white)  
-![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white)  
- 
+![German](https://img.shields.io/badge/German-B2%2FC1-black?style=for-the-badge)  
+![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)  
 
 ---
 
@@ -51,12 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Muneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=malshetri&show_icons=true&theme=dracula)
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muneer-al-shetri)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/malshetri)  
-📧 **Email:** muneer.alshetri@gmail.com
+## 📜 Certificates
+[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/4TUF3Q11DPW2)  
+[![IBM Data Analysis with Python](https://img.shields.io/badge/IBM%20Data%20Analysis%20with%20Python-000000?style=for-the-badge&logo=ibm&logoColor=blue)](https://www.coursera.org/account/accomplishments/ve)
