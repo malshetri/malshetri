@@ -1,11 +1,11 @@
-# 👋 Hallo, ich bin Muneer Al-Shetri
+#  Hallo, ich bin Muneer Al-Shetri
 
-🎓 Informatikstudent an der HTW Berlin
-💻 Leidenschaft für effiziente, skalierbare und benutzerorientierte Softwarelösungen
+ Informatikstudent an der HTW Berlin
+ Leidenschaft für effiziente, skalierbare und benutzerorientierte Softwarelösungen
 
 ---
 
-## 🚀 Über mich
+##  Über mich
 
 Ich studiere Informatik und habe ein starkes Interesse an Softwareentwicklung und Problemlösung. Es motiviert mich, Ideen in praktische Anwendungen umzusetzen und meine Fähigkeiten kontinuierlich durch Projekte und Lernen zu verbessern.
 
@@ -13,7 +13,7 @@ Ich lege großen Wert auf sauberen Code, strukturiertes Denken und darauf, Anwen
 
 ---
 
-## 🛠️ Fähigkeiten
+##  Fähigkeiten
 
 * **Programmiersprachen:** Java, Python, SQL, JavaScript
 * **Konzepte:** Objektorientierte Programmierung, Datenstrukturen, Algorithmen
@@ -21,7 +21,7 @@ Ich lege großen Wert auf sauberen Code, strukturiertes Denken und darauf, Anwen
 
 ---
 
-## 🌍 Sprachen
+##  Sprachen
 
 * Arabisch — Muttersprache
 * Deutsch — C1
@@ -29,7 +29,7 @@ Ich lege großen Wert auf sauberen Code, strukturiertes Denken und darauf, Anwen
 
 ---
 
-## 📌 Fokus
+##  Fokus
 
 * Schreiben von sauberem und wartbarem Code
 * Entwicklung praktischer und sinnvoller Projekte
