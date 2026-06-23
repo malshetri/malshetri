@@ -38,10 +38,10 @@ Ich lege großen Wert auf sauberen Code, strukturiertes Denken und darauf, Anwen
 
 ---
 
-## 📫 Kontakt
+##  Kontakt
 
 Schau dir gerne meine Projekte und Repositories an. Ich freue mich über den Austausch mit anderen Entwicklern und spannende gemeinsame Projekte.
 
 ---
 
-⭐ *„Code bedeutet nicht nur Probleme zu lösen – sondern Möglichkeiten zu schaffen.“*
+ *„Code bedeutet nicht nur Probleme zu lösen – sondern Möglichkeiten zu schaffen.“*
